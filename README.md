@@ -1,4 +1,4 @@
-> This repo consists of notes(executables) taken by me from the Pytest playlist of a YouTube channel named Indian Pythonista.
+> This repo consists of notes taken by me from the Pytest playlist of a YouTube channel named Indian Pythonista.
 To visit the playlist, [click here](https://youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 
 # Table of contents
